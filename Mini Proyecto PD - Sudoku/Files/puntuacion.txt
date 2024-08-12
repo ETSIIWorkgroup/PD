@@ -1,0 +1,3 @@
+Jugador: Alejandro Puntuación: 200 Fallos: 0
+Jugador: Alejandro Puntuación: 125 Fallos: 1
+Jugador: Alejandro Puntuación: 75 Fallos: 2
